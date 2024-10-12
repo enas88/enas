@@ -1,4 +1,59 @@
+# Welcome to Jekyll!
+#
 
-remote_theme: dieghernan/chulapa
+# Site settings
+title: Spectral
+description: |
+  Another fine responsive  
+  site template freebie  
+  crafted by [HTML5 UP](http://html5up.net)
+owner: Enas khwaileh # or company name
+first_published: 2016 # if migrating another site, the year of your first publish
+email: e.t.k.khwaileh@uu.nl
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://enas88.github.io/enas/" # the base hostname & protocol for your site
+social:
+  twitter: https://twitter.com/<enaso>
+  github: https://github.com/<enas88>
+  linkedin-square: https://linkedin.com/in/<w>naskhwaileh
+  facebook-official: https://facebook.com/<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
 
-... more config options
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
