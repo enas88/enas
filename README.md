@@ -1,3 +1,3 @@
 # GoTo
 
-https://enaskhwaileh.github.io/nosa/
+https://enaskhwaileh.github.io/etkk/
