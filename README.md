@@ -1,2 +1,2 @@
 # GoTo
-https://enas88.github.io/enas_khwaileh/
+https://enas88.github.io/Enas_Khwaileh/
