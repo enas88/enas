@@ -1,0 +1,25 @@
+# robots.txt — https://www.enaskhwaileh.com/
+# Generated 2026-04-08
+
+# ── Allow all well-behaved crawlers ──────────────────────────────────────────
+User-agent: *
+Allow: /
+
+# Vendor bundles — no indexing value, save crawl budget
+Disallow: /assets/vendor/
+Disallow: /assets/js/
+Disallow: /assets/css/
+
+# Allow content crawlers to reach images
+Allow: /assets/img/
+
+# ── Google-specific directives ────────────────────────────────────────────────
+User-agent: Googlebot
+Allow: /
+Disallow: /assets/vendor/
+
+User-agent: Googlebot-Image
+Allow: /assets/img/
+
+# ── Sitemap pointer ───────────────────────────────────────────────────────────
+Sitemap: https://www.enaskhwaileh.com/sitemap.xml

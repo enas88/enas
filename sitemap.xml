@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Main page — single-page portfolio, all sections live under the root URL -->
+  <url>
+    <loc>https://www.enaskhwaileh.com/</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.enaskhwaileh.com/assets/img/personal.jpeg</image:loc>
+      <image:title>Enas Khwaileh — Ph.D. Candidate at Utrecht University</image:title>
+    </image:image>
+  </url>
+
+</urlset>
